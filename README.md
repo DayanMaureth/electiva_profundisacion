@@ -1,2 +1,2 @@
-# electiva_profundisacion
+# electiva_profundización
 clases del semestre 
